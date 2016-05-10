@@ -1,5 +1,5 @@
 # carousel-test
 
-npm run
-npm test
-npm test:watch
+* npm run
+* npm test
+* npm test:watch
